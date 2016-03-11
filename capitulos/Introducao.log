@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  11 MAR 2016 03:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  11 MAR 2016 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1353,53 +1353,18 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no J in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no � in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -1668,14 +1633,14 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no " in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no V in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no A in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no O in font nullfont!
@@ -6915,28 +6880,23 @@ Missing character: There is no H in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no L in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no ) in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Freeman2006}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.86 ...em é que páginas HTML \cite{Freeman2006}
+                                                   podem ser interpretadas p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Freeman2006' on page  undefined on input line 86.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -7060,6 +7020,11 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 86--87
 []
  []
 
@@ -8037,30 +8002,41 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Gamma1994}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.105 \cite{Gamma1994}
+                       e
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Gamma1994' on page  undefined on input line 105.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no ) in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Fowler2003}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.106 \cite{Fowler2003}
+                       , tais como: {\it Active Record, Association Table Ma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Fowler2003' on page  undefined on input line 106.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -8072,8 +8048,8 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
-l.104 ...wler, 2003; Gamma, 1994), tais como: {\it
-                                                   Active Record, Associatio...
+l.106 \cite{Fowler2003}, tais como: {\it
+                                         Active Record, Association Table Ma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -8161,17 +8137,27 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 101--105
+Overfull \hbox (20.0pt too wide) in paragraph at lines 101--107
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 101--105
+Overfull \hbox (20.0pt too wide) in paragraph at lines 101--107
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 101--107
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 101--107
 []
  []
 
 ! Undefined control sequence.
-l.106 \subsection
+l.108 \subsection
                  {MySQL}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8186,7 +8172,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 \subsection{M
+l.108 \subsection{M
                    ySQL}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -8440,7 +8426,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 106--108
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--110
 []
  []
 
@@ -8451,7 +8437,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109 \begin{figure}
+l.111 \begin{figure}
                     [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -8464,7 +8450,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109 \begin{figure}[
+l.111 \begin{figure}[
                      !htb]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -8476,7 +8462,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.111 	\includegraphics
+l.113 	\includegraphics
                        [scale=0.50
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8521,7 +8507,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 	\caption
+l.115 	\caption
                {Logo MySQL}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -8567,14 +8553,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116 \end{figure}
+l.118 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 109--117
+Overfull \hbox (20.0pt too wide) in paragraph at lines 111--119
 []
  []
 
@@ -8585,7 +8571,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 O
+l.120 O
         MySQL foi desenvolvido em 1995 por David Axmark, Allan Larsson e Mic...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8707,7 +8693,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
-l.118 ...m de consulta SQL (um acrônimo para {\it
+l.120 ...m de consulta SQL (um acrônimo para {\it
                                                    Structured Query Language...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8916,29 +8902,36 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no ) in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Suehring2002}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.120 ...quer plataforma atual \cite{Suehring2002}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Suehring2002' on page  undefined on input line 120.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 118--119
+Overfull \hbox (20.0pt too wide) in paragraph at lines 120--121
 []
  []
 
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 120--121
+[] 
+ []
+
 ! Undefined control sequence.
-l.121 \subsection
+l.123 \subsection
                  {Git e BitBucket}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8953,7 +8946,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.121 \subsection{G
+l.123 \subsection{G
                    it e BitBucket}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9075,7 +9068,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 121--123
+Overfull \hbox (20.0pt too wide) in paragraph at lines 123--125
 []
  []
 
@@ -9086,7 +9079,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.124 \begin{figure}
+l.126 \begin{figure}
                     [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9099,7 +9092,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.124 \begin{figure}[
+l.126 \begin{figure}[
                      !htb]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9111,7 +9104,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.126 	\includegraphics
+l.128 	\includegraphics
                        [scale=0.10
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9146,13 +9139,13 @@ Missing character: There is no o in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.127 	]{imagens/logo_
+l.129 	]{imagens/logo_
                       git}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.127 	]{imagens/logo_git}
+l.129 	]{imagens/logo_git}
                           
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -9167,7 +9160,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 	\caption
+l.130 	\caption
                {Logo Git}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9179,7 +9172,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 \end{figure}
+l.133 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9188,7 +9181,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.131 \end{figure}
+l.133 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -9199,7 +9192,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.131 \end{figure}
+l.133 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -9208,17 +9201,17 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 124--132
+Overfull \hbox (20.0pt too wide) in paragraph at lines 126--134
 []
  []
 
 
-Overfull \hbox (80.74783pt too wide) in paragraph at lines 124--132
+Overfull \hbox (80.74783pt too wide) in paragraph at lines 126--134
 []\OML/cmm/m/it/10 it[]Fonte \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (79.73152pt too wide) in paragraph at lines 124--132
+Overfull \hbox (79.73152pt too wide) in paragraph at lines 126--134
 \OML/cmm/m/it/10 SiteOficialdoGit:[]$ 
  []
 
@@ -9229,7 +9222,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 U
+l.135 U
        m sistema de controle de versão com a possibilidade de gravar docume...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -9435,7 +9428,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.133 ...jetos visando uma maior, velocidade, {\it
+l.135 ...jetos visando uma maior, velocidade, {\it
                                                    design} simples, com Supo...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9512,7 +9505,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.133 ...nvolvimento não linear (milhares de {\it
+l.135 ...nvolvimento não linear (milhares de {\it
                                                    branches} paralelos), dis...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9602,7 +9595,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no o in font nullfont!
 ! Undefined control sequence.
-l.133 ...ntemente com grandes projetos como o {\it
+l.135 ...ntemente com grandes projetos como o {\it
                                                    kernel} do Linux (velocid...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9722,7 +9715,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 ! Undefined control sequence.
-l.136 ... sua versão gratuita, encontrado no {\it
+l.138 ... sua versão gratuita, encontrado no {\it
                                                    link} (www.bitbucket.org).
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9755,12 +9748,12 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 133--137
+Overfull \hbox (20.0pt too wide) in paragraph at lines 135--139
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 133--137
+Overfull \hbox (20.0pt too wide) in paragraph at lines 135--139
 []
  []
 
@@ -9771,7 +9764,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \begin{figure}
+l.140 \begin{figure}
                     [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9784,7 +9777,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \begin{figure}[
+l.140 \begin{figure}[
                      !htb]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9796,7 +9789,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.140 	\includegraphics
+l.142 	\includegraphics
                        [scale=0.50
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9845,7 +9838,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.142 	\caption
+l.144 	\caption
                {Logo BitBucket}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9899,14 +9892,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \end{figure}
+l.147 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 138--146
+Overfull \hbox (20.0pt too wide) in paragraph at lines 140--148
 []
  []
 
@@ -9917,7 +9910,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.147  �
+l.149  �
         � um site que visa hospedar projetos, utilizando o Git como o contro...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -10255,12 +10248,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 147--148
+Overfull \hbox (20.0pt too wide) in paragraph at lines 149--150
 []
  []
 
 ! Undefined control sequence.
-l.150 \subsection
+l.152 \subsection
                  {Editores de Texto Utilizados}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10275,7 +10268,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.150 \subsection{E
+l.152 \subsection{E
                    ditores de Texto Utilizados}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10687,7 +10680,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155 \begin{figure}
+l.157 \begin{figure}
                     [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10700,7 +10693,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.157 	\includegraphics
+l.159 	\includegraphics
                        [scale=0.05
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10735,13 +10728,13 @@ Missing character: There is no m in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.158 	]{imagens/atom_
+l.160 	]{imagens/atom_
                       logo}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.158 	]{imagens/atom_logo}
+l.160 	]{imagens/atom_logo}
                            
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -10756,7 +10749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.159 	\caption
+l.161 	\caption
                {Logo Atom}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10768,7 +10761,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 \end{figure}
+l.164 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10777,7 +10770,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.162 \end{figure}
+l.164 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -10788,7 +10781,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.162 \end{figure}
+l.164 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -11071,7 +11064,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 \begin{figure}
+l.168 \begin{figure}
                     [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -11084,7 +11077,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.168 	\includegraphics
+l.170 	\includegraphics
                        [scale=0.05
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11123,13 +11116,13 @@ Missing character: There is no s in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.169 	]{imagens/brackets_
+l.171 	]{imagens/brackets_
                           logo}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.169 	]{imagens/brackets_logo}
+l.171 	]{imagens/brackets_logo}
                                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -11144,7 +11137,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 	\caption
+l.172 	\caption
                {Logo Brackets}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11156,7 +11149,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173 \end{figure}
+l.175 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -11165,7 +11158,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.173 \end{figure}
+l.175 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -11176,7 +11169,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.173 \end{figure}
+l.175 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -11185,42 +11178,42 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 150--174
+Overfull \hbox (20.0pt too wide) in paragraph at lines 152--176
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 150--174
+Overfull \hbox (20.0pt too wide) in paragraph at lines 152--176
 []
  []
 
 
-Overfull \hbox (96.75128pt too wide) in paragraph at lines 150--174
+Overfull \hbox (96.75128pt too wide) in paragraph at lines 152--176
 []\OML/cmm/m/it/10 ogo[]Fonte \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (89.55128pt too wide) in paragraph at lines 150--174
+Overfull \hbox (89.55128pt too wide) in paragraph at lines 152--176
 \OML/cmm/m/it/10 SiteOficialdoAtom:[]$ 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 150--174
+Overfull \hbox (20.0pt too wide) in paragraph at lines 152--176
 []
  []
 
 
-Overfull \hbox (112.97813pt too wide) in paragraph at lines 150--174
+Overfull \hbox (112.97813pt too wide) in paragraph at lines 152--176
 []\OML/cmm/m/it/10 ogo[]Fonte \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (105.77814pt too wide) in paragraph at lines 150--174
+Overfull \hbox (105.77814pt too wide) in paragraph at lines 152--176
 \OML/cmm/m/it/10 SiteOficialdoBrackets:[]$ 
  []
 
 ! Undefined control sequence.
-l.175 \subsection
+l.177 \subsection
                  {Ambiente de Trabalho}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11235,7 +11228,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \subsection{A
+l.177 \subsection{A
                    mbiente de Trabalho}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11398,7 +11391,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
-l.176 ...nvolvido em 3 computadores pessoais ({\it
+l.178 ...nvolvido em 3 computadores pessoais ({\it
                                                    notebook}) e 3 computador...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11437,7 +11430,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
-l.176 ...notebook}) e 3 computadores de mesa ({\it
+l.178 ...notebook}) e 3 computadores de mesa ({\it
                                                    desktop}), no laboratóri...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11521,7 +11514,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.176 ...a do campus Natal – Zona Norte. Os {\it
+l.178 ...a do campus Natal – Zona Norte. Os {\it
                                                    notebooks} tinham process...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11768,12 +11761,12 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 175--177
+Overfull \hbox (20.0pt too wide) in paragraph at lines 177--179
 []
  []
 
 ! Undefined control sequence.
-l.178 \subsection
+l.180 \subsection
                  {Processo de Contrução}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11788,7 +11781,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.178 \subsection{P
+l.180 \subsection{P
                    rocesso de Contrução}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11903,7 +11896,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.179 ...om a divisão de grupos, denominados {\it
+l.181 ...om a divisão de grupos, denominados {\it
                                                    Back-End} (responsáveis ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11992,7 +11985,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.179 ...�ão dos códigos com a interface) e {\it
+l.181 ...�ão dos códigos com a interface) e {\it
                                                    Front-End} (Responsáveis...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13462,32 +13455,41 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Fowler2005}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.190 ...caso de uso e de classe \cite{Fowler2005}
+                                                   e \cite{Bezerra2002}. O p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Fowler2005' on page  undefined on input line 190.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no ) in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Bezerra2002}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.190 ...se \cite{Fowler2005} e \cite{Bezerra2002}
+                                                  . O primeiro diagrama perm...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Bezerra2002' on page  undefined on input line 190.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -14379,7 +14381,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.191 ...es, o projeto utilizou o serviço de {\it
+l.193 ...es, o projeto utilizou o serviço de {\it
                                                    web hosting} do Bitbucket...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15628,7 +15630,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
-l.197 ... o gerenciamento do sistema de forma {\it
+l.199 ... o gerenciamento do sistema de forma {\it
                                                    on-line}. Assim o ePuppy ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15706,42 +15708,52 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 180--200
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--198
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--200
 []
  []
 
 ! Undefined control sequence.
-l.200 \section
+l.202 \section
               {Organização do Documento}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15756,7 +15768,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 \section{O
+l.202 \section{O
                 rganização do Documento}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15786,7 +15798,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 200--201
+Overfull \hbox (20.0pt too wide) in paragraph at lines 202--203
 []
  []
 
@@ -15797,7 +15809,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.202 O
+l.204 O
         presente trabalho está moldado em seis capítulos. Através desde c...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -16628,6 +16640,102 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 204--205
+[]
+ []
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 \nocite{Nascimento2014}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 \nocite{Aguilar2015}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \nocite{Anaya2015}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \nocite{Arias2015}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 \nocite{G12015}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.213 \nocite{Gazzana2015}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 \nocite{Veja2015}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
 ! Emergency stop.
 <*> Introducao.tex
@@ -16636,11 +16744,11 @@ Missing character: There is no . in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 13 strings out of 493304
- 227 string characters out of 6139871
+ 19 strings out of 493304
+ 302 string characters out of 6139871
  56880 words of memory out of 5000000
- 3570 multiletter control sequences out of 15000+600000
+ 3576 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 19i,4n,14p,1066b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,4n,21p,1066b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
