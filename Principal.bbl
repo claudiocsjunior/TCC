@@ -5,5 +5,76 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.53 }
 
+\bibitem[Aguilar 2015]{Aguilar2015}
+\abntrefinfo{Aguilar}{AGUILAR}{2015}
+{AGUILAR, L. \emph{O vínculo afetivo com nossos animais de estimação}. Disponível em:<http://www.infonet.com.br/lucianaaguilar/ler.asp?id=158495>. Acesso em 25 de ago. de 2015.
+} 
+
+\bibitem[Anaya 2015]{Anaya2015}
+\abntrefinfo{Anaya}{ANAYA}{2015}
+{ANAYA, L. \emph{AFETIVIDADE HOMEM \& ANIMAIS DE ESTIMAÇÃO}. Disponível em:<http://somostodosum.ig.com.br/clube/artigos.asp?id=29613/>. Acesso em 25 de ago. de 2015
+} 
+ 
+\bibitem[Animale 2015]{Animale2015}
+\abntrefinfo{Animale}{ANIMALE}{2015}
+{ANIMALE. \emph{O QUE FAZER QUANDO O CACHORRO OU O GATO FOGEM? 10 DICAS VALIOSAS }. Disponível em:<http://www.animale.me/o-que-fazer-quando-o-cachorro-ou-o-gato-fogem-10-dicas-valiosas/>. Acesso em 18 de jul. de 2015
+} 
+
+\bibitem[Arias 2015]{Arias2015}
+\abntrefinfo{Arias}{ARIAS}{2015}
+{ARIAS, J. \emph{Lares brasileiros já têm mais animais que crianças}. Disponível em:<http://brasil.elpais.com/brasil/2015/06/09/opinion/1433885904\_043289.html/>. Acesso em 18 de jul. de 2015
+} 
+
+\bibitem[Bezerra 2002]{Bezerra2002}
+\abntrefinfo{Bezerra}{BEZERRA}{2002}
+{BEZERRA, E. \emph{Princípios de Análise e Projeto de Sistemas com UML}. Rio de Janeiro: Editora Campus, 2002. 286p.}
+
+\bibitem[Fowler 2003]{Fowler2003}
+\abntrefinfo{Fowler}{FOWLER}{2003}
+{FOWLER, M. \emph{Patterns of Enterprise Application Architecture}. Boston: Pearson, 2003. 270p.} 
+
+\bibitem[Fowler 2005]{Fowler2005}
+\abntrefinfo{Fowler}{FOWLER}{2003}
+{FOWLER, M. \emph{UML Essencial: Um Breve Guia para a Linguagem-padrão de Modelagem de Objetos}. 3. ed. Porto Alegra: Bookman, 2005. 160p.} 
+
+\bibitem[Freeman 2006]{Freeman2006}
+\abntrefinfo{Freeman}{FREEMAN}{2006}
+{FREEMAN, E. \emph{HTML com CSS e XHTML}. [S.l.]: Rio de Janeiro: Alta Books, 2006. 486p.}  
+
+\bibitem[G1 2015]{G12015}
+\abntrefinfo{G1}{G1}{2015}
+{G1. \emph{Brasileiros têm 52 milhões de cães e 22 milhões de gatos, aponta IBGE}.Disponível em:<http://g1.globo.com/natureza/noticia/2015/06/brasileiros-tem-52-milhoes-de-caes-e-22-milhoes-de-gatos-aponta-ibge.html>. Acesso em 14 de jul. de 2015.
+}     
+
+\bibitem[Gamma 1994]{Gamma1994}
+\abntrefinfo{Gamma}{GAMMA}{1994}
+{GAMMA, E. \emph{Design Patterns, Software Engineering, Object-oriented Programming}. Boston: Addison-Wesley, 1994. 395p.} 
+
+\bibitem[Gazeta 2015]{Gazeta2015}
+\abntrefinfo{Gazeta}{GAZETA}{2015}
+{GAZETA NEWS. \emph{Fugiu! 9 dicas para encontrar seu animal de estimação}. Disponível em:<http://gazetanews.com/fugiu-9-dicas-para-encontrar-seu-animal-de-estimacao/>. Acesso em 14 de jul. de 2015
+}   
+
+\bibitem[Gazzana 2015]{Gazzana2015}
+\abntrefinfo{Gazzana}{GAZZANA}{2015}
+{GAZZANA, C. \emph{Novas Configurações Familiares e Vínculo com os Animais de Estimação Numa Perspectiva de Família Multiespécie}. Disponível em:<https://psicologado.com/abordagens/comportamental/novas-configuracoes-familiares-e-vinculo-com-os-animais-de-estimacao-numa-perspectiva-de-familia-multiespecie/>. Acesso em 18 de jul. de 2015
+}   
+
+\bibitem[Nascimento 2014]{Nascimento2014}
+\abntrefinfo{Nascimento}{NASCIMENTO}{2014}
+{NASCIMENTO, D. \emph{Modelo de Monografia}. [S.l.]: Instituto Federal do Rio
+  Grande do Norte, 2014.}
+  
+\bibitem[Sommerville 2011]{Sommerville2011}
+\abntrefinfo{Sommerville}{SOMMERVILE}{2002}
+{SOMMERVILLE, I. \emph{Engenharia de Software}. 9. ed. São Paulo, Pearson, 2011. 528p.
+} 
+
+\bibitem[Suehring 2011]{Suehring2011}
+\abntrefinfo{Suehring}{SUEHRING}{2002}
+{SUEHRING, S. \emph{MySQL: a Bíblia}. Rio de Janeiro: Elsevier, 2002. 674p.
+}   
+    
+
 
 \end{thebibliography}

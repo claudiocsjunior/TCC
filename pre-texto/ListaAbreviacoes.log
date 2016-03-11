@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  10 MAR 2016 01:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  11 MAR 2016 02:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -72,6 +72,15 @@ Missing character: There is no H in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no L in font nullfont!
+! Undefined control sequence.
+l.5 HTML   & \it
+                {HyperText Markup Language}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no H in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -144,6 +153,15 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no J in font nullfont!
 Missing character: There is no S in font nullfont!
+! Undefined control sequence.
+l.7 JS	   & \it
+               {JavaScript}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no J in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -157,6 +175,15 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no C in font nullfont!
+! Undefined control sequence.
+l.8 MVC	   & \it
+                {Model-View-Controller}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no M in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -209,6 +236,15 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no Q in font nullfont!
 Missing character: There is no L in font nullfont!
+! Undefined control sequence.
+l.10 SQL	   & \it
+                 {Structured Query Language}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no S in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -235,6 +271,15 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no U in font nullfont!
 Missing character: There is no R in font nullfont!
 Missing character: There is no L in font nullfont!
+! Undefined control sequence.
+l.11 URL    & \it
+                 {Uniform Resource Locator}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no U in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -265,10 +310,10 @@ Missing character: There is no r in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 10 strings out of 493304
- 222 string characters out of 6139871
+ 11 strings out of 493304
+ 224 string characters out of 6139871
  52880 words of memory out of 5000000
- 3568 multiletter control sequences out of 15000+600000
+ 3569 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  19i,7n,12p,83b,130s stack positions out of 5000i,500n,10000p,200000b,80000s

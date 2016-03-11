@@ -28,4 +28,3 @@
 \contentsline {chapter}{\numberline {6}Considera\IeC {\c c}\IeC {\~o}es Finais}{36}
 \contentsline {section}{\numberline {6.1}Trabalhos Futuros}{36}
 \contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{37}
-\contentsline {chapter}{Ap\^endice{} A{} -$\tmspace -\thinmuskip {.1667em}$-{} T\IeC {\'\i }tulo do Anexo}{38}
