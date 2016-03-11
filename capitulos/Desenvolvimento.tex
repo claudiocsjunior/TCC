@@ -1,0 +1,107 @@
+\chapter{Desenvolvimento}
+
+Para o desenvolvimento do ePuppy foi necessário seguir alguns critérios da Engenharia de Software para facilitar a aplicação e a elaboração de um sistema consistente.
+\\
+\indent
+A princípio focamos em pesquisar as mais variadas redes sociais e identificamos que a criação de animais domésticos, mesmo sendo um mercado crescente, ainda não há um sistema capaz de integrar os mais variados tipos de usuários envolvidos neste mercado (Donos de animais domésticos, Clínicas, veterinários e empresas de produtos e serviços).
+\\
+\indent
+Após este processo, começamos uma análise dos requisitos, que na qual, nos retemos a entrevistas com usuários, workshops e brainstormings de requisitos com donos de clinicas e veterinários, e prototipagens. 
+\\
+\indent
+A medida que conseguimos uma gama de requisitos, nos reunimos para discutir sobre as ferramentas que deveríamos utilizar.
+\\
+\indent
+Em seguida, começamos a executar a aplicação, elaborando primeiramente os usuários que iriam atuar no sistema, a modelagem do banco e iniciamos os casos de uso. 
+\\
+\indent
+Posteriormente, iniciamos a implementação, ou seja, toda a etapa de codificação do ePuppy.
+
+\section{Redes Sociais e o ePuppy}
+
+Para a realização do projeto, foi fundamental uma divisão em duas etapas. No primeiro momento, procuramos nos reter um pouco as especificidades de uma rede social, nos aprimorando em suas características básicas e seus comportamentos. Após esse momento, pesquisamos sobre outros sistemas parecidos e em quais ambientes poderíamos nos reter para tornar o ePuppy, não apenas uma rede social, um sistema de clínica veterinária ou até mesmo um sistema de segurança para os animais, mas sim um sistema que engloba todas essas caraterísticas, tornando-se um projeto mais completo e inovador.
+
+\subsection{Redes Sociais}
+A rede mundial, ou Internet surge em plena guerra fria, com objetivos militares específicos, tornando-se também um importante meio de comunicação acadêmica. Em meados da década de 90 a internet começa a alcançar a população em geral, a com isso surgindo também a utilização de interface gráfica e a criação de sites mais dinâmicos, visualmente mais interessantes.
+\\
+\indent
+A partir dos anos 2000 a conexão entre as pessoas fica mais fácil e com o aprimoramento desta tecnologia da informação, outro tipo de serviço de comunicação começa a ganhar forças: as {\bf Redes Sociais}. Estrutura social composta por pessoas e organizações, conectadas por vários tipos de relações, que compartilham valores e objetivos comuns, sejam eles, imagens, informações, vídeos e arquivos de áudio.
+\\
+\indent
+Desde 2006, esses serviços viraram febre no mundo inteiro chegando a haver uma grande descriminação para aqueles que não usam.
+\\
+\indent
+Mas como é possível um convívio social à grandes distâncias? Segundo Brown e Barnett, “o agrupamento de indivíduos, de acordo com as posições que resultam dos padrões essenciais de relações de obrigação, constitui a estrutura social de uma sociedade”. Portanto, esses valores unidos aos fatores virtuais, fazem com que haja um estrapolamento das quatro paredes convencionais, tornando assim um convívio social a grandes distâncias.
+\\
+\indent
+Hoje, as principais redes sociais sejam elas profissionais, de relacionamentos, politicas ou comunitárias são: LinkedIn, Myspace, Facebook, Twitter, entre outros.
+
+\subsection{ePuppy}
+O ePuppy é um projeto designado para quem procura mais praticidade em questão de segurança, informação e interação. Para que isso fosse precisamente implementado no sistema subdividimos os três quesitos em vários casos de uso.
+\\
+\indent
+Portanto, nosso sistema funcionará com basicamente três tipos de usuários (Proprietários, clínicas e veterinários). E disponibilizando as mais variadas tarefas para esses usuários, passando de controle e segurança de animais dos proprietários, até ao controle de proprietários em clínicas veterinárias.
+\\
+\indent
+Os proprietários do sistema poderão cadastrar a maior quantidade de animais possíveis, adicionando nomes, espécie, raça dentre outros dados. Cada animal será identificado por uma {\it QR Code} diferenciado, na qual, a priori, serão adicionadas em coleiras, dependendo do animal. O {\it QR Code} terá dados acerca do dono e do {\it pet}, garantindo assim que um e-mail seja enviado para o proprietário no próprio sistema, por quem achar o animal (caso este esteja perdido). Os {\it pets} ainda terão um histórico hospitalar, para que os veterinários tenham todo um apanhado detalhado de suas consultas passadas, obtendo assim: Remédios, consultas, cirurgias e doenças acerca do animal.
+\\
+\indent
+Devido a interligação entre os usuários, os donos ainda poderão ter um maior controle e acesso aos veterinários e clínicas mais confiáveis, podendo enviar e receber e-mails no próprio sistema a qualquer momento.
+\\
+\indent
+Por o ePuppy ser um sistema de segurança e também, uma rede social, os usuários em geral poderão compartilhar publicações como: informações e arquivos em geral, comentar publicações, ter amigos, grupos, ver perfis de outros usuários e seus animais. Além de todos esses atributos, o sistema ainda disponibilizará aos usuários, login por redes sociais, fazendo com que publicações e ações em relação aos seus animais, clínicas e veterinários, sejam publicadas também nessas outras redes, caso o usuário atribua permissão para tal procedimento.
+\\
+\indent
+Já do lado das clínicas veterinárias, o ePuppy procura proporcionar meios para que essas divulguem os seus serviços, na própria rede social e em outras, além de possibilitar um maior controle de seus pacientes e veterinários, e um maior ponto de acesso de uma maior quantidade de usuários.
+\\
+\indent
+A rede social ainda possibilita um auxílio ao trabalho dos veterinários, principalmente porque esses terão um maior acesso às antigas consultas de seus pacientes (animais), podendo ser mais eficientes durante o receitamento de determinado remédio, consulta, cirurgia, além de um maior monitoramento desses.
+
+\subsection{Trabalhos Relacionados}
+Para o desenvolvimento do ePuppy, tomamos como base um sistema que já está em funcionamento, chamado Meu Peludo. Nele, o proprietário compra a coleira do sistema, que vem impressa um {\it QR Code} agregada a um link da internet, que contém os dados do cachorro, do dono e um formulário para que quem ache o animal na rua, consiga entrar em contato com o dono, e ele é avisado por e-mail qual a localização GPS aproximada de onde o pet foi localizado e os dados de quem o encontrou. Apoiamos-nos nessa funcionalidade em especial, e fomos aderindo novas, buscando deixar o ePuppy mais completo e mais amplo.
+\\
+\indent
+Durante o desenvolvimento do ePuppy, conhecemos um sistema chamado TagPet, que tem muitas das funcionalidades que estávamos desenvolvendo. Porém, a ideia do nosso sistema é ser uma rede social para proprietários de animais domésticos, e estamos desenvolvendo um requisito para que as publicações feitas no ePuppy, possam ser disparadas no Facebook do usuário, caso ele tenha se cadastrado utilizando os dados do Facebook. Além disso, as pessoas vão poder compartilhar em quais clínicas ou pet shops favoritos estão, funcionando como uma publicidade para esses lugares.
+
+
+\section{Análise dos Requisitos}
+Esta seção apresentará os requisitos mais importantes para a construção do ePuppy, discorrendo primeiramente sobre o levantamento dos requisitos e em seguida, apresentando o fluxo básico dos casos de uso.
+
+\subsection{Levantamento de Requisitos}
+O levantamento de requisitos para a construção do ePuppy foi de extrema importância, pois compreender de maneira correta e eficaz cada requisito do usuário é o alicerce para um sistema consistente. 
+\\
+\indent
+Mesmo conhecendo a variedade de redes sociais disponíveis no mundo atualmente, não era o suficiente para a elaboração do projeto, por não se limitar apenas a uma rede social comum, mas englobar donos de animais de estimação, clinicas veterinárias, veterinários e empresas de produtos e serviços.
+\\
+\indent
+Portanto, por não ter conhecimento necessário da área a ser desenvolvido o projeto, foi fundamental obter o máximo de requisitos possíveis. Por conhecer bem que o levantamento de requisitos não é uma tarefa fácil, devido a dificuldades que os usuários tem de descrever o problema ou até mesmo, ter contradição de ideias entre usuários e analistas, utilizou-se técnicas padrões usadas na Engenharia de Software. Abaixo, seguem algumas das técnicas utilizadas na elicitação dos requisitos:
+\begin{itemize}
+   \item Entrevistas com usuários:
+   \\
+   \indent
+   Por ser um método tradicional e que geralmente constrói bons resultados, os mais variados tipos de usuários foram entrevistados, principalmente, veterinários e donos de animais. 
+   \item {\it Brainstorming}:
+    \\
+   \indent
+   O {\it Brainstorming} foi outro método utilizado e que também rendeu bons resultados. Foi realizada principalmente entre veterinários, pois poderiam contribuir da melhor forma possível, por viver no ambiente cotidianamente. 
+   \item Estudo Etnográfico:
+   \\
+   \indent
+   Em conjunto com os {\it Brainstormings} e entrevistas com usuários, realizamos o estudo baseado na observação, para compreender o ambiente e o contexto onde o sistema será inserido.
+   \item Prototipagem: 
+   \\
+   \indent
+   Para a demonstração do andamento do projeto, apresentamos protótipos com algumas funcionalidades, principalmente para as clinicas e veterinários, para que essas começassem a se familiarizar com o sistema e divulgá-lo aos seus clientes.
+   \item Workshops de requisitos:
+   \\
+   \indent
+   Além de todos os métodos que utilizamos anteriormente, também realizamos várias reuniões estruturadas com veterinários, clinicas e investidores, a fim de modificar, adicionar ou esclarecer os requisitos.
+ \end{itemize}
+\subsection{Casos de Uso}
+
+Imagem
+
+
+
+\section{Análise dos Resultados}
+
