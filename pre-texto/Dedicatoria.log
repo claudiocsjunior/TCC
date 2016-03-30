@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  7 MAR 2016 00:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  29 MAR 2016 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -35,7 +35,6 @@ Missing character: There is no √ in font cmti10!
 Missing character: There is no £ in font cmti10!
 Missing character: There is no √ in font cmti10!
 Missing character: There is no ° in font cmti10!
-Missing character: There is no ( in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no D in font nullfont!
@@ -57,7 +56,6 @@ Missing character: There is no U in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no √ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ) in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size

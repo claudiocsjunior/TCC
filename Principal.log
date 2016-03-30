@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  11 MAR 2016 16:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.19)  30 MAR 2016 02:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -611,7 +611,8 @@ Writing nomenclature file Principal.nlo
 ) (./Principal.aux (./pre-texto/Capa.aux) (./pre-texto/FolhaAprovacao.aux)
 (./pre-texto/Dedicatoria.aux) (./pre-texto/Agradecimentos.aux)
 (./pre-texto/Resumo.aux) (./pre-texto/Abstract.aux)
-(./pre-texto/ListaAbreviacoes.aux) (./capitulos/Introducao.aux
+(./pre-texto/ListaAbreviacoes.aux) (./capitulos/Introducao.aux)
+(./capitulos/Desenvolvimento.aux
 
 LaTeX Warning: Label `Rotulo' multiply defined.
 
@@ -624,30 +625,6 @@ LaTeX Warning: Label `Rotulo' multiply defined.
 
 LaTeX Warning: Label `Rotulo' multiply defined.
 
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-) (./capitulos/ReferencialTeorico.aux) (./capitulos/RedesSociaiseoePuppy.aux)
-(./capitulos/AnalisedosRequisitos.aux
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-
-LaTeX Warning: Label `Rotulo' multiply defined.
-
-) (./capitulos/AnalisedosResultados.aux
 
 LaTeX Warning: Label `Rotulo' multiply defined.
 
@@ -754,49 +731,49 @@ e
 File: imagens/if.png Graphic file (type png)
 
 <use imagens/if.png>
-Package pdftex.def Info: imagens/if.png used on input line 23.
+Package pdftex.def Info: imagens/if.png used on input line 25.
 (pdftex.def)             Requested size: 48.68175pt x 65.24359pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 23.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 23
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 25
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 23
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 25
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 23
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 25
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 23
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 25
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 23.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 25.
  [0
 
 
@@ -892,7 +869,7 @@ File: imagens/animais.png Graphic file (type png)
 Package pdftex.def Info: imagens/animais.png used on input line 28.
 (pdftex.def)             Requested size: 420.16689pt x 208.67819pt.
  [12]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 45.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
@@ -900,198 +877,108 @@ File: omsptm.fd
 
 LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
 (Font)              using `OMS/ptm/m/n' instead
-(Font)              for symbol `textbullet' on input line 41.
+(Font)              for symbol `textbullet' on input line 45.
 
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OMS/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
-[13 <./imagens/animais.png>] [14]
-<imagens/php_logo.png, id=60, 301.125pt x 180.675pt>
-File: imagens/php_logo.png Graphic file (type png)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+[13 <./imagens/animais.png>] [14]) [15]
+\openout2 = `capitulos/Desenvolvimento.aux'.
 
-<use imagens/php_logo.png>
-Package pdftex.def Info: imagens/php_logo.png used on input line 80.
-(pdftex.def)             Requested size: 150.56212pt x 90.33727pt.
-
-<imagens/cake-logo.png, id=61, 180.675pt x 180.675pt>
-File: imagens/cake-logo.png Graphic file (type png)
-
-<use imagens/cake-logo.png>
-Package pdftex.def Info: imagens/cake-logo.png used on input line 95.
-(pdftex.def)             Requested size: 90.33727pt x 90.33727pt.
- [15 <./imagens/php_logo.png>]
-<imagens/logo-mysql.png, id=66, 170.6375pt x 115.43124pt>
-File: imagens/logo-mysql.png Graphic file (type png)
-
-<use imagens/logo-mysql.png>
-Package pdftex.def Info: imagens/logo-mysql.png used on input line 114.
-(pdftex.def)             Requested size: 85.31853pt x 57.71547pt.
-
-<imagens/logo_git.png, id=67, 913.4125pt x 381.425pt>
-File: imagens/logo_git.png Graphic file (type png)
-
-<use imagens/logo_git.png>
-Package pdftex.def Info: imagens/logo_git.png used on input line 129.
-(pdftex.def)             Requested size: 91.34659pt x 38.14473pt.
- [16 <./imagens/cake-logo.png> <./imagens/logo-mysql.png>] <imagens/bitbucket-l
-ogo.png, id=73, 248.93pt x 248.93pt>
-File: imagens/bitbucket-logo.png Graphic file (type png)
-
-<use imagens/bitbucket-logo.png>
-Package pdftex.def Info: imagens/bitbucket-logo.png used on input line 143.
-(pdftex.def)             Requested size: 124.46469pt x 124.46469pt.
-
-<imagens/atom_logo.png, id=74, 2007.5pt x 1838.87pt>
-File: imagens/atom_logo.png Graphic file (type png)
-
-<use imagens/atom_logo.png>
-Package pdftex.def Info: imagens/atom_logo.png used on input line 160.
-(pdftex.def)             Requested size: 100.38087pt x 91.94888pt.
-
-<imagens/brackets_logo.png, id=75, 1027.84pt x 1027.84pt>
-File: imagens/brackets_logo.png Graphic file (type png)
-
-<use imagens/brackets_logo.png>
-Package pdftex.def Info: imagens/brackets_logo.png used on input line 171.
-(pdftex.def)             Requested size: 51.395pt x 51.395pt.
- [17 <./imagens/logo_git.png> <./imagens/bitbucket-logo.png>] [18 <./imagens/at
-om_logo.png> <./imagens/brackets_logo.png>]
-[19] [20]) [21]
-\openout2 = `capitulos/ReferencialTeorico.aux'.
-
- (./capitulos/ReferencialTeorico.tex
+ (./capitulos/Desenvolvimento.tex
 Cap\'{\i }tulo 2.
-) [22
+[16
 
 
 
-] [23]
-\openout2 = `capitulos/RedesSociaiseoePuppy.aux'.
-
- (./capitulos/RedesSociaiseoePuppy.tex
-Cap\'{\i }tulo 3.
-[24
-
-
-
-] [25]) [26]
-\openout2 = `capitulos/AnalisedosRequisitos.aux'.
-
- (./capitulos/AnalisedosRequisitos.tex
-Cap\'{\i }tulo 4.
-[27
-
-
-
-] <imagens/usercasodeuso.png, id=115, 798.985pt x 516.93124pt>
+] [17] [18] [19]
+<imagens/usercasodeuso.png, id=76, 798.985pt x 516.93124pt>
 File: imagens/usercasodeuso.png Graphic file (type png)
 
 <use imagens/usercasodeuso.png>
-Package pdftex.def Info: imagens/usercasodeuso.png used on input line 44.
-(pdftex.def)             Requested size: 439.4431pt x 284.31306pt.
+Package pdftex.def Info: imagens/usercasodeuso.png used on input line 109.
+(pdftex.def)             Requested size: 399.49152pt x 258.46498pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imagens/ownerscasosdeuso.png, id=116, 551.05875pt x 371.3875pt>
+[20] <imagens/ownerscasosdeuso.png, id=80, 551.05875pt x 371.3875pt>
 File: imagens/ownerscasosdeuso.png Graphic file (type png)
 
 <use imagens/ownerscasosdeuso.png>
-Package pdftex.def Info: imagens/ownerscasosdeuso.png used on input line 52.
-(pdftex.def)             Requested size: 303.08324pt x 204.26375pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<imagens/HeVcasosdeuso.png, id=117, 613.29124pt x 547.04375pt>
+Package pdftex.def Info: imagens/ownerscasosdeuso.png used on input line 121.
+(pdftex.def)             Requested size: 275.52869pt x 185.69328pt.
+ [21 <./imagens/usercasodeuso.png> <./imagens/ownerscasosdeuso.png>]
+<imagens/HeVcasosdeuso.png, id=86, 613.29124pt x 547.04375pt>
 File: imagens/HeVcasosdeuso.png Graphic file (type png)
 
 <use imagens/HeVcasosdeuso.png>
-Package pdftex.def Info: imagens/HeVcasosdeuso.png used on input line 60.
-(pdftex.def)             Requested size: 337.31122pt x 300.87498pt.
+Package pdftex.def Info: imagens/HeVcasosdeuso.png used on input line 132.
+(pdftex.def)             Requested size: 306.64487pt x 273.5212pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[28]
-
-LaTeX Warning: Text page 29 contains only floats.
-
-[29 <./imagens/usercasodeuso.png> <./imagens/ownerscasosdeuso.png>]
-<imagens/entidaderelacionamento.png, id=126, 564.1075pt x 590.205pt>
+<imagens/entidaderelacionamento.png, id=87, 564.1075pt x 590.205pt>
 File: imagens/entidaderelacionamento.png Graphic file (type png)
 
 <use imagens/entidaderelacionamento.png>
 Package pdftex.def Info: imagens/entidaderelacionamento.png used on input line 
-76.
+149.
 (pdftex.def)             Requested size: 451.2866pt x 472.16464pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [30 <./imagens/HeVcasosdeuso.png>] [31 <./imagens/entidaderelacionamento.png>
-]
-\openout2 = `capitulos/AnalisedosResultados.aux'.
-
- (./capitulos/AnalisedosResultados.tex
-Cap\'{\i }tulo 5.
-<imagens/errologin.png, id=136, 1371.1225pt x 770.88pt>
+ [22 <./imagens/HeVcasosdeuso.png>]
+[23 <./imagens/entidaderelacionamento.png>] [24] [25] [26] [27]
+<imagens/errologin.png, id=109, 1371.1225pt x 770.88pt>
 File: imagens/errologin.png Graphic file (type png)
 
 <use imagens/errologin.png>
-Package pdftex.def Info: imagens/errologin.png used on input line 9.
-(pdftex.def)             Requested size: 452.47182pt x 254.39119pt.
+Package pdftex.def Info: imagens/errologin.png used on input line 249.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
 
-<imagens/principal.png, id=137, 1371.1225pt x 770.88pt>
+<imagens/principal.png, id=110, 1371.1225pt x 770.88pt>
 File: imagens/principal.png Graphic file (type png)
 
 <use imagens/principal.png>
-Package pdftex.def Info: imagens/principal.png used on input line 18.
-(pdftex.def)             Requested size: 356.48344pt x 200.42407pt.
+Package pdftex.def Info: imagens/principal.png used on input line 259.
+(pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
 
-<imagens/cadastro.png, id=138, 1371.1225pt x 770.88pt>
+<imagens/cadastro.png, id=111, 1371.1225pt x 770.88pt>
 File: imagens/cadastro.png Graphic file (type png)
 
 <use imagens/cadastro.png>
-Package pdftex.def Info: imagens/cadastro.png used on input line 25.
-(pdftex.def)             Requested size: 356.48344pt x 200.42407pt.
- [32
-
-
-
- <./imagens/errologin.png>]
-<imagens/animais1.png, id=142, 1371.1225pt x 770.88pt>
+Package pdftex.def Info: imagens/cadastro.png used on input line 266.
+(pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
+ [28 <./imagens/errologin.png>] [29 <./imagens/principal.png> <./imagens/cadast
+ro.png>]
+<imagens/animais1.png, id=118, 1371.1225pt x 770.88pt>
 File: imagens/animais1.png Graphic file (type png)
 
 <use imagens/animais1.png>
-Package pdftex.def Info: imagens/animais1.png used on input line 34.
+Package pdftex.def Info: imagens/animais1.png used on input line 277.
 (pdftex.def)             Requested size: 301.64787pt x 169.59412pt.
 
-<imagens/animais2.png, id=143, 1371.1225pt x 770.88pt>
+<imagens/animais2.png, id=119, 1371.1225pt x 770.88pt>
 File: imagens/animais2.png Graphic file (type png)
 
 <use imagens/animais2.png>
-Package pdftex.def Info: imagens/animais2.png used on input line 41.
+Package pdftex.def Info: imagens/animais2.png used on input line 284.
 (pdftex.def)             Requested size: 301.64787pt x 169.59412pt.
- [33 <./imagens/principal.png> <./imagens/cadastro.png>] [34 <./imagens/animais
-1.png> <./imagens/animais2.png>]
-<imagens/perfil.png, id=150, 1371.1225pt x 770.88pt>
+ [30 <./imagens/animais1.png> <./imagens/animais2.png>] <imagens/perfil.png, id
+=124, 1371.1225pt x 770.88pt>
 File: imagens/perfil.png Graphic file (type png)
- <use imagens/perfil.png>
-Package pdftex.def Info: imagens/perfil.png used on input line 51.
-(pdftex.def)             Requested size: 452.47182pt x 254.39119pt.
-)
-[35 <./imagens/perfil.png>]
+
+<use imagens/perfil.png>
+Package pdftex.def Info: imagens/perfil.png used on input line 296.
+(pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
+) [31 <./imagens/perfil.png>]
 \openout2 = `capitulos/ConsideracoesFinais.aux'.
 
- (./capitulos/ConsideracoesFinais.tex
-Cap\'{\i }tulo 6.
-) [36
+
+(./capitulos/ConsideracoesFinais.tex
+Cap\'{\i }tulo 3.
+) [32
 
 
 
-] (./Principal.bbl [37
+] (./Principal.bbl [33
 
 
 ])
@@ -1099,13 +986,11 @@ Cap\'{\i }tulo 6.
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[38] (./Principal.aux (./pre-texto/Capa.aux) (./pre-texto/FolhaAprovacao.aux)
+[34] (./Principal.aux (./pre-texto/Capa.aux) (./pre-texto/FolhaAprovacao.aux)
 (./pre-texto/Dedicatoria.aux) (./pre-texto/Agradecimentos.aux)
 (./pre-texto/Resumo.aux) (./pre-texto/Abstract.aux)
 (./pre-texto/ListaAbreviacoes.aux) (./capitulos/Introducao.aux)
-(./capitulos/ReferencialTeorico.aux) (./capitulos/RedesSociaiseoePuppy.aux)
-(./capitulos/AnalisedosRequisitos.aux) (./capitulos/AnalisedosResultados.aux)
-(./capitulos/ConsideracoesFinais.aux))
+(./capitulos/Desenvolvimento.aux) (./capitulos/ConsideracoesFinais.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1114,23 +999,23 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4877 strings out of 493304
- 68909 string characters out of 6139871
- 139974 words of memory out of 5000000
- 8014 multiletter control sequences out of 15000+600000
- 52344 words of font info for 62 fonts, out of 8000000 for 9000
+ 4820 strings out of 493304
+ 67262 string characters out of 6139871
+ 148755 words of memory out of 5000000
+ 7984 multiletter control sequences out of 15000+600000
+ 55066 words of font info for 64 fonts, out of 8000000 for 9000
  959 hyphenation exceptions out of 8191
- 38i,8n,43p,1194b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,43p,1194b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (39 pages, 3498146 bytes).
+Output written on Principal.pdf (35 pages, 3272643 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 160 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
